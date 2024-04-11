@@ -1,3 +1,3 @@
-# R2WNet
-This repo is the official implementation of "R2WNet". This repo contains the supported code and configuration files to reproduce semantic segmentation results of "R2WNet". It is based on mmsegmentaion.
+# UPerNet+
+This repo is the official implementation of "UPerNet+". This repo contains the supported code and configuration files to reproduce the semantic segmentation results of "R2WNet". It is based on mmsegmentaion.
 The code will be organized and uploaded after the paper is accepted.
